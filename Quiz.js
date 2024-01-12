@@ -29,45 +29,45 @@ let index = 0;
 const songDataBase = [
 
 {
-    songSrc: "C:/Users/Matt/Desktop/Class 35/MOD 3/CIS 303/Capstone Project/K&K.mp3",
+    songSrc: "K&K.mp3",
 	title: "Kenan and Kel",
 	artist: "Coolio",
-	imgSrc: "C:/Users/Matt/Desktop/Class 35/MOD 3/CIS 303/Capstone Project/K&K.jpg",
+	imgSrc: "K&K.jpg",
   },
   
   {
-    songSrc: "C:/Users/Matt/Desktop/Class 35/MOD 3/CIS 303/Capstone Project/TSR.mp3",
+    songSrc: "TSR.mp3",
 	title: "That's So Raven",
 	artist: "Raven Simone",
-	imgSrc: "C:/Users/Matt/Desktop/Class 35/MOD 3/CIS 303/Capstone Project/TSR.jpg",
+	imgSrc: "TSR.jpg",
   },
   
   {
-    songSrc: "C:/Users/Matt/Desktop/Class 35/MOD 3/CIS 303/Capstone Project/TPF.mp3",
+    songSrc: "TPF.mp3",
 	title: "The Proud Family",
 	artist: "Destinys Child ft Solange",
-	imgSrc: "C:/Users/Matt/Desktop/Class 35/MOD 3/CIS 303/Capstone Project/TPF.jpg",
+	imgSrc: "TPF.jpg",
   },
   
   {
-    songSrc: "C:/Users/Matt/Desktop/Class 35/MOD 3/CIS 303/Capstone Project/E2E.mp3",
+    songSrc: "E2E.mp3",
 	title: "I2I",
 	artist: "Tevin Campbell",
-	imgSrc: "C:/Users/Matt/Desktop/Class 35/MOD 3/CIS 303/Capstone Project/E2E.PNG",
+	imgSrc: "E2E.PNG",
   },
   
   {
-    songSrc: "C:/Users/Matt/Desktop/Class 35/MOD 3/CIS 303/Capstone Project/MST.mp3",
+    songSrc: "MST.mp3",
 	title: "Shiny Teeth",
 	artist: "Chip Skylark",
-	imgSrc: "C:/Users/Matt/Desktop/Class 35/MOD 3/CIS 303/Capstone Project/MST.jpg",
+	imgSrc: "MST.jpg",
   },
   
   {
-      songSrc: "C:/Users/Matt/Desktop/Class 35/MOD 3/CIS 303/Capstone Project/HSM.mp3",
+      songSrc: "HSM.mp3",
 	  title: "We're All In This Together",
 	  artist: "High School Musical",
-	  imgSrc: "C:/Users/Matt/Desktop/Class 35/MOD 3/CIS 303/Capstone Project/HSM.jpeg",
+	  imgSrc: "HSM.jpeg",
   },
   
 
